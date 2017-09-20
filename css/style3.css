@@ -1,0 +1,81 @@
+#style-switcher h2 a { background: #ff5722 none repeat scroll 0 0 }
+.section-title h2:before {
+    border-top: 4px solid #ff5722;
+    border-left: 4px solid #ff5722;
+}
+.section-title h2:after {
+    border-bottom: 4px solid #ff5722;
+    border-right: 4px solid #ff5722;
+}
+.button { background: #ff5722 }
+.mainmenu ul.nav.navbar-nav li a:hover { color: #ff5722 !important }
+.mainmenu ul.nav.navbar-nav li.active:before {
+    border-top: 2px solid #ff5722;
+    border-left: 2px solid #ff5722;
+}
+.mainmenu ul.nav.navbar-nav li.active:after {
+    border-bottom: 2px solid #ff5722;
+    border-right: 2px solid #ff5722;
+}
+.menu-bg .navbar-brand { color: #ff5722 !important }
+.menu-bg .mainmenu ul.nav.navbar-nav li a:hover { color: #ff5722 !important }
+.about-icon:before,
+.about-icon:after{ border-color: #ff5722 }
+.about-icon i { background: #ff5722 none repeat scroll 0 0 }
+.skills-progress .progress-bar { background: #ff5722 }
+.edu-title p,
+.exp-title p { border-bottom: 3px solid #ff5722 }
+.single-education:before,
+.single-experience:before,
+.single-service:before {
+    border-top: 1px solid #ff5722;
+    border-left: 1px solid #ff5722;
+}
+.single-education:after,
+.single-experience:after,
+.single-service:after {
+    border-bottom: 1px solid #ff5722;
+    border-right: 1px solid #ff5722;
+}
+.single-education i,
+.single-experience i,
+.single-service i { color: #ff5722 }
+.single-education:hover,
+.single-experience:hover,
+.single-service:hover {
+    border: 1px solid rgba(255, 87, 34, 0.3);
+    background: #ff5722;
+}
+.education:hover .edu-title i,
+.experience:hover .exp-title i { color: #ff5722 }
+.panel-title a:after,
+.panel-title a.collapsed:after { color: #ff5722 }
+.portfolio-filter ul li.active,
+.portfolio-filter ul li:hover {
+    border: 1px solid rgba(255, 87, 34, .3);
+    background: #ff5722 none repeat scroll 0 0;
+}
+.image-overlay { background: rgba(255, 87, 34, 0.6) }
+.image-overlay i:hover { color: #ff5722 }
+.hire-text h2,
+.counter h2,
+.testimonial-text h2 { border-bottom: 2px solid #ff5722 }
+.counter i,
+.single-contact i { background: #ff5722 }
+.video-area i:hover { background: #ff5722 }
+.single_pricing.recommended,
+.single_pricing:hover { border: 1px solid rgba(255, 87, 34, 0.3) }
+.single_pricing.recommended .price,
+.single_pricing:hover .price { background: #ff5722 }
+.about-icon:hover i,
+.counter:hover i,
+.single-contact:hover i {
+    background: rgba(255, 87, 34, 0.3);
+    color: #ff5722;
+}
+.single-contact h2 { border-bottom: 2px solid #ff5722 }
+.single-blog:hover { border: 1px solid rgba(255, 87, 34, 0.3) }
+.single-blog:hover .blog-content a.read-more { color: #ff5722 }
+.form-control:hover,
+.form-control:focus { border-color: -moz-use-text-color -moz-use-text-color #ff5722 }
+.copyright { background: #ff5722 }
