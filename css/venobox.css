@@ -39,7 +39,7 @@ body{
     top:50%; 
     margin-left:-16px; 
     margin-top:-16px;
-    background-image: url(../img/preload-circle.png);
+    background-image: url(./img/preload-circle.png);
     text-indent: -100px;
     overflow: hidden;
     -webkit-animation: playload 1.4s steps(18) infinite;
@@ -200,7 +200,7 @@ body{
     height: 40px;
     padding: 10px 20px 10px 0;
     display: block;
-    background: url(../img/close.gif) no-repeat #161617;
+    background: url(./img/close.gif) no-repeat #161617;
     background-position:10px center;
     color: #fff;
     text-indent: -100px;
